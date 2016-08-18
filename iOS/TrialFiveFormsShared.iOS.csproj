@@ -108,6 +108,9 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\HuKnows_Logo180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\HuKnows_Logo120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\HuKnows_Logo80.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
